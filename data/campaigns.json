@@ -1,0 +1,41 @@
+[
+  {
+    "id": "agents",
+    "title": "Die geheime Agentenprüfung",
+    "emoji": "🕵️",
+    "description": "5 Missionen. Besteht alle Prüfungen und werdet QUESTBOX-Agenten.",
+    "questIds": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "id": "explorers",
+    "title": "Die Entdecker-Expedition",
+    "emoji": "🧭",
+    "description": "5 Outdoor-Missionen für neugierige Entdecker.",
+    "questIds": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  {
+    "id": "inventors",
+    "title": "Die Erfinder-Werkstatt",
+    "emoji": "⚙️",
+    "description": "5 Missionen für Fantasie, Konstruktion und Experimente.",
+    "questIds": [
+      12,
+      13,
+      21,
+      23,
+      25
+    ]
+  }
+]

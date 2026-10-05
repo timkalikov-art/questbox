@@ -1,272 +1,302 @@
 [
   {
     "id": 1,
-    "title": "Farbenjagd",
-    "description": "Finde fünf Dinge in derselben Farbe. Wer zuerst fertig ist, gewinnt.",
-    "category": "search",
+    "title": "Geheime Observation",
+    "description": "Merkt euch 30 Sekunden lang zehn Details im Raum. Dreht euch um – wie viele könnt ihr nennen?",
+    "category": "agent",
     "minutes": 5,
-    "place": "any",
-    "xp": 20
+    "place": "inside",
+    "age": 6,
+    "xp": 25
   },
   {
     "id": 2,
-    "title": "Geräusche-Detektiv",
-    "description": "Seid eine Minute still und zählt anschließend alle Geräusche auf, die ihr gehört habt.",
-    "category": "senses",
-    "minutes": 5,
-    "place": "any",
-    "xp": 20
+    "title": "Laser-Parcours",
+    "description": "Spannt Schnüre oder legt Bänder als 'Laser' aus. Kommt hindurch, ohne sie zu berühren.",
+    "category": "agent",
+    "minutes": 15,
+    "place": "inside",
+    "age": 6,
+    "xp": 45
   },
   {
     "id": 3,
-    "title": "Turmbau",
-    "description": "Baut aus Dingen in eurer Nähe den höchsten freistehenden Turm.",
-    "category": "build",
+    "title": "Geheimschrift",
+    "description": "Erfindet fünf Zeichen für Buchstaben und schreibt eine geheime Nachricht.",
+    "category": "agent",
     "minutes": 10,
     "place": "inside",
-    "xp": 30
+    "age": 7,
+    "xp": 35
   },
   {
     "id": 4,
-    "title": "Wolkenkino",
-    "description": "Sucht draußen drei Wolkenformen und gebt ihnen Namen.",
-    "category": "nature",
+    "title": "Agenten-Fingerabdruck",
+    "description": "Malt mit Bleistift eine dunkle Fläche, reibt einen Finger darüber und drückt ihn auf Klebeband.",
+    "category": "agent",
     "minutes": 10,
-    "place": "outside",
-    "xp": 30
+    "place": "inside",
+    "age": 7,
+    "xp": 35
   },
   {
     "id": 5,
-    "title": "Mini-Schatzkarte",
-    "description": "Verstecke einen kleinen Gegenstand und zeichne eine Schatzkarte dorthin.",
-    "category": "creative",
-    "minutes": 15,
+    "title": "Schatzkarte",
+    "description": "Versteckt einen Gegenstand und zeichnet eine Karte mit drei Hinweisen zum Schatz.",
+    "category": "agent",
+    "minutes": 20,
     "place": "inside",
-    "xp": 40
+    "age": 5,
+    "xp": 55
   },
   {
     "id": 6,
-    "title": "Rückwärts-Weg",
-    "description": "Geht eine kurze sichere Strecke gemeinsam rückwärts und achtet besonders aufeinander.",
-    "category": "move",
-    "minutes": 5,
+    "title": "Spurenleser",
+    "description": "Findet draußen drei unterschiedliche Spuren von Menschen, Tieren oder Fahrzeugen.",
+    "category": "nature",
+    "minutes": 10,
     "place": "outside",
-    "xp": 20
+    "age": 5,
+    "xp": 35
   },
   {
     "id": 7,
-    "title": "Geschichte in 6 Sätzen",
-    "description": "Jeder sagt abwechselnd einen Satz. Nach genau sechs Sätzen muss die Geschichte enden.",
-    "category": "story",
-    "minutes": 5,
-    "place": "any",
-    "xp": 20
+    "title": "Wolkenkino",
+    "description": "Findet drei Wolkenformen und erfindet zu jeder eine Figur und einen Namen.",
+    "category": "nature",
+    "minutes": 10,
+    "place": "outside",
+    "age": 4,
+    "xp": 30
   },
   {
     "id": 8,
-    "title": "Formen-Safari",
-    "description": "Finde je einen Kreis, ein Dreieck, ein Rechteck und einen Stern in deiner Umgebung.",
-    "category": "discover",
-    "minutes": 5,
-    "place": "any",
-    "xp": 20
+    "title": "Mini-Expedition",
+    "description": "Geht einen bekannten Weg und entdeckt fünf Dinge, die euch bisher nie aufgefallen sind.",
+    "category": "nature",
+    "minutes": 15,
+    "place": "outside",
+    "age": 5,
+    "xp": 45
   },
   {
     "id": 9,
-    "title": "Papierbrücke",
-    "description": "Baue aus einem Blatt Papier eine Brücke, die drei Münzen tragen kann.",
-    "category": "build",
+    "title": "Natur-Bingo",
+    "description": "Findet etwas Rundes, Raues, Grünes, Leichtes und etwas, das gut riecht.",
+    "category": "nature",
     "minutes": 15,
-    "place": "inside",
-    "xp": 40
+    "place": "outside",
+    "age": 4,
+    "xp": 45
   },
   {
     "id": 10,
-    "title": "Blind ertasten",
-    "description": "Eine Person schließt die Augen und errät drei ungefährliche Gegenstände nur durch Tasten.",
-    "category": "senses",
+    "title": "Blätter-Detektiv",
+    "description": "Sammelt oder betrachtet drei verschiedene Blätter und findet je zwei Unterschiede.",
+    "category": "nature",
     "minutes": 10,
-    "place": "inside",
-    "xp": 30
+    "place": "outside",
+    "age": 5,
+    "xp": 35
   },
   {
     "id": 11,
-    "title": "Natur-Alphabet",
-    "description": "Finde draußen Dinge für möglichst viele Anfangsbuchstaben des Alphabets.",
-    "category": "nature",
-    "minutes": 15,
-    "place": "outside",
-    "xp": 40
+    "title": "Monster in 60 Sekunden",
+    "description": "Jeder zeichnet in einer Minute ein Monster. Danach bekommt jedes Monster eine Superkraft.",
+    "category": "creative",
+    "minutes": 5,
+    "place": "inside",
+    "age": 4,
+    "xp": 25
   },
   {
     "id": 12,
-    "title": "10-Sekunden-Zeichnung",
-    "description": "Zeichnet denselben Gegenstand jeweils nur zehn Sekunden lang und vergleicht.",
+    "title": "Erfinderwerkstatt",
+    "description": "Erfindet ein Gerät, das ein nerviges Alltagsproblem löst. Zeichnet und erklärt es.",
     "category": "creative",
-    "minutes": 5,
+    "minutes": 15,
     "place": "inside",
-    "xp": 20
+    "age": 7,
+    "xp": 45
   },
   {
     "id": 13,
-    "title": "Tierbewegungen",
-    "description": "Bewegt euch nacheinander wie fünf verschiedene Tiere.",
-    "category": "move",
-    "minutes": 5,
-    "place": "any",
-    "xp": 20
+    "title": "Papierstadt",
+    "description": "Baut aus Papier eine Mini-Stadt mit mindestens drei Gebäuden und einer Straße.",
+    "category": "creative",
+    "minutes": 20,
+    "place": "inside",
+    "age": 6,
+    "xp": 55
   },
   {
     "id": 14,
-    "title": "Was fehlt?",
-    "description": "Lege fünf Dinge hin. Eine Person schaut weg, ein Gegenstand verschwindet – welcher?",
-    "category": "think",
-    "minutes": 5,
-    "place": "inside",
-    "xp": 20
+    "title": "Ein-Wort-Geschichte",
+    "description": "Erzählt gemeinsam eine Geschichte. Pro Runde darf jeder nur genau ein Wort hinzufügen.",
+    "category": "creative",
+    "minutes": 10,
+    "place": "any",
+    "age": 5,
+    "xp": 35
   },
   {
     "id": 15,
-    "title": "Foto ohne Kamera",
-    "description": "Schaut 20 Sekunden auf eine Szene, dreht euch um und beschreibt möglichst viele Details.",
-    "category": "discover",
-    "minutes": 5,
-    "place": "any",
-    "xp": 20
-  },
-  {
-    "id": 16,
-    "title": "Geheimcode",
-    "description": "Erfindet für fünf häufige Wörter eigene Zeichen und schreibt eine geheime Nachricht.",
-    "category": "think",
-    "minutes": 15,
-    "place": "inside",
-    "xp": 40
-  },
-  {
-    "id": 17,
-    "title": "Mini-Parcours",
-    "description": "Baut einen sicheren Parcours aus Kissen oder markierten Punkten und absolviert ihn.",
-    "category": "move",
-    "minutes": 15,
-    "place": "inside",
-    "xp": 40
-  },
-  {
-    "id": 18,
-    "title": "Drei gute Dinge",
-    "description": "Jeder nennt drei Dinge, die heute schön oder interessant waren.",
-    "category": "team",
-    "minutes": 5,
-    "place": "any",
-    "xp": 20
-  },
-  {
-    "id": 19,
-    "title": "Spurenleser",
-    "description": "Sucht draußen nach drei verschiedenen Spuren: Fußabdruck, Reifen, Tier oder Pflanze.",
-    "category": "nature",
-    "minutes": 10,
-    "place": "outside",
-    "xp": 30
-  },
-  {
-    "id": 20,
-    "title": "Wer bin ich?",
-    "description": "Eine Person denkt an ein Tier oder Objekt. Die anderen dürfen nur Ja/Nein-Fragen stellen.",
-    "category": "think",
-    "minutes": 10,
-    "place": "any",
-    "xp": 30
-  },
-  {
-    "id": 21,
-    "title": "Schattenmonster",
-    "description": "Erfindet mit Händen oder Gegenständen drei Schattenfiguren.",
+    "title": "Schattenwesen",
+    "description": "Erzeugt mit Händen oder Gegenständen drei Schattenfiguren und gebt ihnen Namen.",
     "category": "creative",
     "minutes": 10,
     "place": "inside",
+    "age": 4,
     "xp": 30
+  },
+  {
+    "id": 16,
+    "title": "Tier-Olympiade",
+    "description": "Bewegt euch wie Frosch, Krabbe, Pinguin und Känguru. Wer schafft jede Strecke?",
+    "category": "move",
+    "minutes": 10,
+    "place": "any",
+    "age": 4,
+    "xp": 35
+  },
+  {
+    "id": 17,
+    "title": "Kissen-Parcours",
+    "description": "Baut einen sicheren Parcours aus Kissen und markierten Punkten und stoppt eure Zeit.",
+    "category": "move",
+    "minutes": 15,
+    "place": "inside",
+    "age": 5,
+    "xp": 45
+  },
+  {
+    "id": 18,
+    "title": "Balance-Meister",
+    "description": "Fünf Balance-Aufgaben: ein Bein, Zehenspitzen, Buch auf dem Kopf und zwei eigene Varianten.",
+    "category": "move",
+    "minutes": 10,
+    "place": "any",
+    "age": 5,
+    "xp": 35
+  },
+  {
+    "id": 19,
+    "title": "Zeitlupe",
+    "description": "Bewegt euch eine Minute lang so langsam wie möglich von einer Seite des Raums zur anderen.",
+    "category": "move",
+    "minutes": 5,
+    "place": "inside",
+    "age": 4,
+    "xp": 25
+  },
+  {
+    "id": 20,
+    "title": "Bewegungs-Code",
+    "description": "Erfindet vier Bewegungen als Geheimcode und merkt euch eine Folge aus acht Zeichen.",
+    "category": "move",
+    "minutes": 10,
+    "place": "any",
+    "age": 6,
+    "xp": 35
+  },
+  {
+    "id": 21,
+    "title": "Papierbrücke",
+    "description": "Baut aus einem Blatt Papier eine Brücke zwischen zwei Büchern, die drei Münzen trägt.",
+    "category": "science",
+    "minutes": 15,
+    "place": "inside",
+    "age": 7,
+    "xp": 50
   },
   {
     "id": 22,
-    "title": "Alphabet-Suche",
-    "description": "Findet Gegenstände, deren Namen mit A, B, C, D und E beginnen.",
-    "category": "search",
-    "minutes": 10,
-    "place": "any",
-    "xp": 30
+    "title": "Sinkt oder schwimmt?",
+    "description": "Sucht fünf wasserfeste Gegenstände und sagt vorher, welche schwimmen. Dann sicher testen.",
+    "category": "science",
+    "minutes": 15,
+    "place": "inside",
+    "age": 5,
+    "xp": 45
   },
   {
     "id": 23,
-    "title": "Ein-Wort-Geschichte",
-    "description": "Erzählt gemeinsam eine Geschichte, aber jede Person darf pro Runde nur ein Wort sagen.",
-    "category": "story",
-    "minutes": 10,
+    "title": "Luft-Ingenieur",
+    "description": "Baut zwei verschiedene Papierflieger und testet, welcher weiter fliegt.",
+    "category": "science",
+    "minutes": 15,
     "place": "any",
-    "xp": 30
+    "age": 6,
+    "xp": 45
   },
   {
     "id": 24,
-    "title": "Leise Mission",
-    "description": "Schafft es, eine Minute lang gemeinsam eine Aufgabe zu erledigen, ohne zu sprechen.",
-    "category": "team",
-    "minutes": 5,
-    "place": "any",
-    "xp": 20
+    "title": "Geräuschlabor",
+    "description": "Findet fünf Gegenstände, die unterschiedliche Geräusche machen, und sortiert sie von leise bis laut.",
+    "category": "science",
+    "minutes": 10,
+    "place": "inside",
+    "age": 4,
+    "xp": 35
   },
   {
     "id": 25,
-    "title": "Mini-Museum",
-    "description": "Wählt drei Alltagsgegenstände und präsentiert sie wie wertvolle Museumsstücke.",
-    "category": "story",
-    "minutes": 10,
+    "title": "Gedächtnis-Test",
+    "description": "Legt acht Dinge hin, schaut 20 Sekunden, deckt sie ab und schreibt oder sagt alle auf.",
+    "category": "science",
+    "minutes": 5,
     "place": "inside",
+    "age": 6,
     "xp": 30
   },
   {
     "id": 26,
-    "title": "Balance-Challenge",
-    "description": "Wer kann am längsten sicher auf einem Bein stehen? Danach mit geschlossenen Augen nur wenn sicher.",
-    "category": "move",
-    "minutes": 5,
-    "place": "any",
-    "xp": 20
+    "title": "Stummer Baumeister",
+    "description": "Baut gemeinsam etwas, aber fünf Minuten lang darf niemand sprechen.",
+    "category": "team",
+    "minutes": 10,
+    "place": "inside",
+    "age": 6,
+    "xp": 40
   },
   {
     "id": 27,
-    "title": "Fünf Texturen",
-    "description": "Finde fünf Dinge, die sich deutlich unterschiedlich anfühlen.",
-    "category": "senses",
-    "minutes": 5,
-    "place": "any",
-    "xp": 20
+    "title": "Gemeinsame Zeichnung",
+    "description": "Ein Blatt, ein Stift: Jeder zeichnet abwechselnd genau eine Linie. Was entsteht?",
+    "category": "team",
+    "minutes": 10,
+    "place": "inside",
+    "age": 4,
+    "xp": 35
   },
   {
     "id": 28,
-    "title": "Erfinder-Minute",
-    "description": "Denkt euch einen Gegenstand aus, den es noch nicht gibt, und erklärt seine Funktion.",
-    "category": "creative",
-    "minutes": 10,
+    "title": "Kompliment-Mission",
+    "description": "Jeder nennt zwei konkrete Dinge, die er an den anderen heute gut fand.",
+    "category": "team",
+    "minutes": 5,
     "place": "any",
-    "xp": 30
+    "age": 4,
+    "xp": 25
   },
   {
     "id": 29,
-    "title": "Gemeinsam bauen",
-    "description": "Baut etwas zusammen, wobei jeder abwechselnd genau ein Teil hinzufügen darf.",
+    "title": "Blind führen",
+    "description": "Eine Person schließt an einem sicheren Ort die Augen, die andere führt sie nur mit Worten.",
     "category": "team",
-    "minutes": 15,
+    "minutes": 10,
     "place": "inside",
+    "age": 7,
     "xp": 40
   },
   {
     "id": 30,
-    "title": "Mini-Expedition",
-    "description": "Geht zehn Minuten nach draußen und entdeckt etwas, das euch vorher nie aufgefallen ist.",
-    "category": "discover",
+    "title": "Familien-Rekord",
+    "description": "Wählt eine harmlose Aufgabe und stellt gemeinsam einen Rekord auf, den ihr später brechen könnt.",
+    "category": "team",
     "minutes": 10,
-    "place": "outside",
-    "xp": 30
+    "place": "any",
+    "age": 5,
+    "xp": 40
   }
 ]
