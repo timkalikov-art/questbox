@@ -1,9 +1,10 @@
 {
-  "name": "QUESTBOX – Kleine Quests",
+  "name": "QUESTBOX – Familienabenteuer",
   "short_name": "QUESTBOX",
   "start_url": "./",
+  "scope": "./",
   "display": "standalone",
-  "background_color": "#11150f",
-  "theme_color": "#11150f",
-  "description": "Kleine Quests für echte Momente."
+  "background_color": "#0d120b",
+  "theme_color": "#0d120b",
+  "description": "Kleine Abenteuer für Familien – raus aus dem Scrollen, rein ins echte Leben."
 }
