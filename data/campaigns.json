@@ -115,5 +115,83 @@
       59,
       60
     ]
+  },
+  {
+    "id": "academy",
+    "title": "Agenten-Akademie II",
+    "emoji": "🪪",
+    "description": "Die nächste Ausbildungsstufe für erfahrene Geheimagenten.",
+    "questIds": [
+      61,
+      62,
+      63,
+      64,
+      65
+    ]
+  },
+  {
+    "id": "micro",
+    "title": "Die Welt im Kleinen",
+    "emoji": "🔍",
+    "description": "Entdeckt Details in der Natur, an denen man sonst vorbeigeht.",
+    "questIds": [
+      66,
+      67,
+      68,
+      69,
+      70
+    ]
+  },
+  {
+    "id": "studio",
+    "title": "QUESTBOX Studio",
+    "emoji": "🎬",
+    "description": "Werbung, Flaggen, Geräusche und Fantasie – eure eigene Kreativagentur.",
+    "questIds": [
+      71,
+      72,
+      73,
+      74,
+      75
+    ]
+  },
+  {
+    "id": "rally",
+    "title": "Die große Zimmer-Rallye",
+    "emoji": "🏁",
+    "description": "Fünf neue Bewegungsmissionen für drinnen und überall.",
+    "questIds": [
+      76,
+      77,
+      78,
+      79,
+      80
+    ]
+  },
+  {
+    "id": "lab2",
+    "title": "Forscherlabor II",
+    "emoji": "⚗️",
+    "description": "Messen, testen und beobachten – die zweite Laborstufe.",
+    "questIds": [
+      81,
+      82,
+      83,
+      84,
+      85
+    ]
+  },
+  {
+    "id": "team2",
+    "title": "Superteam",
+    "emoji": "🛡️",
+    "description": "Kommunikation und Zusammenarbeit werden zur Superkraft.",
+    "questIds": [
+      86,
+      87,
+      88,
+      89,
+      90
+    ]
   }
 ]
