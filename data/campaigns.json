@@ -37,5 +37,83 @@
       23,
       25
     ]
+  },
+  {
+    "id": "detective",
+    "title": "Operation Codewort",
+    "emoji": "🔐",
+    "description": "Fünf neue Agentenmissionen für echte Nachwuchsdetektive.",
+    "questIds": [
+      31,
+      32,
+      33,
+      34,
+      35
+    ]
+  },
+  {
+    "id": "wild",
+    "title": "Wildnis vor der Haustür",
+    "emoji": "🌲",
+    "description": "Entdeckt, wie viel Natur direkt vor euch steckt.",
+    "questIds": [
+      36,
+      37,
+      38,
+      39,
+      40
+    ]
+  },
+  {
+    "id": "makers",
+    "title": "Die Kreativfabrik",
+    "emoji": "🎭",
+    "description": "Fünf Missionen, bei denen aus Ideen echte Dinge werden.",
+    "questIds": [
+      41,
+      42,
+      43,
+      44,
+      45
+    ]
+  },
+  {
+    "id": "action",
+    "title": "Wohnzimmer-Olympiade",
+    "emoji": "🏅",
+    "description": "Bewegung, Geschicklichkeit und jede Menge kleine Challenges.",
+    "questIds": [
+      46,
+      47,
+      48,
+      49,
+      50
+    ]
+  },
+  {
+    "id": "lab",
+    "title": "Das geheime Labor",
+    "emoji": "🧪",
+    "description": "Beobachten, testen, verbessern: fünf kleine Forscher-Missionen.",
+    "questIds": [
+      51,
+      52,
+      53,
+      54,
+      55
+    ]
+  },
+  {
+    "id": "family",
+    "title": "Das Familien-Team",
+    "emoji": "🤝",
+    "description": "Missionen, die nur gemeinsam richtig gut funktionieren.",
+    "questIds": [
+      56,
+      57,
+      58,
+      59,
+      60
+    ]
   }
 ]

@@ -298,5 +298,305 @@
     "place": "any",
     "age": 5,
     "xp": 40
+  },
+  {
+    "id": 31,
+    "title": "Codewort-Jagd",
+    "description": "Legt ein geheimes Codewort fest. Versteckt fünf Buchstaben-Hinweise im Raum und findet sie in der richtigen Reihenfolge.",
+    "category": "agent",
+    "minutes": 15,
+    "place": "inside",
+    "age": 6,
+    "xp": 45
+  },
+  {
+    "id": 32,
+    "title": "Agenten-Verkleidung",
+    "description": "Ihr habt drei Minuten, um mit vorhandenen Dingen eine unauffällige Agenten-Verkleidung zu bauen.",
+    "category": "agent",
+    "minutes": 10,
+    "place": "inside",
+    "age": 5,
+    "xp": 35
+  },
+  {
+    "id": 33,
+    "title": "Unsichtbare Nachricht",
+    "description": "Schreibt mit weißer Wachsmalkreide auf Papier und macht die Nachricht mit Wasserfarbe sichtbar.",
+    "category": "agent",
+    "minutes": 15,
+    "place": "inside",
+    "age": 6,
+    "xp": 45
+  },
+  {
+    "id": 34,
+    "title": "Verdächtige Gegenstände",
+    "description": "Eine Person verändert drei Kleinigkeiten im Raum. Die anderen müssen herausfinden, was anders ist.",
+    "category": "agent",
+    "minutes": 10,
+    "place": "inside",
+    "age": 5,
+    "xp": 35
+  },
+  {
+    "id": 35,
+    "title": "Flüster-Funk",
+    "description": "Übermittelt einen Satz flüsternd über mehrere Personen. Kommt am Ende dieselbe Nachricht an?",
+    "category": "agent",
+    "minutes": 5,
+    "place": "any",
+    "age": 4,
+    "xp": 25
+  },
+  {
+    "id": 36,
+    "title": "Baum-Detektiv",
+    "description": "Sucht zwei unterschiedliche Bäume und vergleicht Rinde, Blätter, Größe und Umgebung.",
+    "category": "nature",
+    "minutes": 15,
+    "place": "outside",
+    "age": 5,
+    "xp": 45
+  },
+  {
+    "id": 37,
+    "title": "Mini-Safari",
+    "description": "Findet fünf verschiedene Lebewesen, ohne sie anzufassen oder zu stören.",
+    "category": "nature",
+    "minutes": 15,
+    "place": "outside",
+    "age": 4,
+    "xp": 45
+  },
+  {
+    "id": 38,
+    "title": "Wind-Forscher",
+    "description": "Findet drei Hinweise darauf, aus welcher Richtung der Wind kommt.",
+    "category": "nature",
+    "minutes": 10,
+    "place": "outside",
+    "age": 5,
+    "xp": 35
+  },
+  {
+    "id": 39,
+    "title": "Farben der Natur",
+    "description": "Findet draußen fünf verschiedene natürliche Farbtöne.",
+    "category": "nature",
+    "minutes": 10,
+    "place": "outside",
+    "age": 4,
+    "xp": 35
+  },
+  {
+    "id": 40,
+    "title": "Geräusche-Karte",
+    "description": "Bleibt an einem Ort stehen und zeichnet ein, aus welcher Richtung fünf Geräusche kommen.",
+    "category": "nature",
+    "minutes": 10,
+    "place": "outside",
+    "age": 6,
+    "xp": 35
+  },
+  {
+    "id": 41,
+    "title": "Papp-Roboter",
+    "description": "Baut aus Verpackungen oder Papier einen kleinen Roboter mit einer erfundenen Aufgabe.",
+    "category": "creative",
+    "minutes": 20,
+    "place": "inside",
+    "age": 5,
+    "xp": 55
+  },
+  {
+    "id": 42,
+    "title": "Comic in vier Bildern",
+    "description": "Erfindet eine Mini-Geschichte und erzählt sie ausschließlich in vier gezeichneten Bildern.",
+    "category": "creative",
+    "minutes": 15,
+    "place": "inside",
+    "age": 6,
+    "xp": 45
+  },
+  {
+    "id": 43,
+    "title": "Fantasie-Tier",
+    "description": "Kombiniert drei echte Tiere zu einer neuen Art. Zeichnet sie und erklärt ihre Fähigkeiten.",
+    "category": "creative",
+    "minutes": 10,
+    "place": "any",
+    "age": 4,
+    "xp": 35
+  },
+  {
+    "id": 44,
+    "title": "Mini-Theater",
+    "description": "Erfindet eine zweiminütige Szene mit drei zufälligen Gegenständen als Requisiten.",
+    "category": "creative",
+    "minutes": 15,
+    "place": "inside",
+    "age": 5,
+    "xp": 45
+  },
+  {
+    "id": 45,
+    "title": "Zimmer-Architekt",
+    "description": "Zeichnet euer Traumzimmer. Es muss eine verrückte Funktion enthalten.",
+    "category": "creative",
+    "minutes": 15,
+    "place": "inside",
+    "age": 5,
+    "xp": 45
+  },
+  {
+    "id": 46,
+    "title": "Socken-Zielwurf",
+    "description": "Rollt saubere Socken zu Bällen und trefft aus drei Entfernungen einen Korb.",
+    "category": "move",
+    "minutes": 10,
+    "place": "inside",
+    "age": 4,
+    "xp": 35
+  },
+  {
+    "id": 47,
+    "title": "Spiegel-Bewegung",
+    "description": "Eine Person bewegt sich langsam, die andere versucht jede Bewegung wie ein Spiegel nachzumachen.",
+    "category": "move",
+    "minutes": 10,
+    "place": "any",
+    "age": 4,
+    "xp": 35
+  },
+  {
+    "id": 48,
+    "title": "Boden ist Lava",
+    "description": "Legt sichere Inseln fest und überquert den Raum, ohne den Boden dazwischen zu berühren.",
+    "category": "move",
+    "minutes": 10,
+    "place": "inside",
+    "age": 5,
+    "xp": 35
+  },
+  {
+    "id": 49,
+    "title": "30-Sekunden-Challenge",
+    "description": "Wählt drei Bewegungen und zählt jeweils, wie viele ihr sicher in 30 Sekunden schafft.",
+    "category": "move",
+    "minutes": 10,
+    "place": "any",
+    "age": 6,
+    "xp": 35
+  },
+  {
+    "id": 50,
+    "title": "Roboter-Steuerung",
+    "description": "Eine Person ist Roboter und darf sich nur nach klaren Befehlen der anderen bewegen.",
+    "category": "move",
+    "minutes": 10,
+    "place": "any",
+    "age": 5,
+    "xp": 35
+  },
+  {
+    "id": 51,
+    "title": "Papier-Fallschirm",
+    "description": "Baut aus Papier, Faden und einem leichten Gegenstand einen Fallschirm und verbessert ihn.",
+    "category": "science",
+    "minutes": 20,
+    "place": "inside",
+    "age": 7,
+    "xp": 55
+  },
+  {
+    "id": 52,
+    "title": "Magnet-Detektiv",
+    "description": "Falls ein Haushaltsmagnet vorhanden ist: sagt bei zehn sicheren Gegenständen voraus, was magnetisch ist.",
+    "category": "science",
+    "minutes": 10,
+    "place": "inside",
+    "age": 6,
+    "xp": 35
+  },
+  {
+    "id": 53,
+    "title": "Schall-Experiment",
+    "description": "Testet, wie unterschiedlich Klopfen durch Tisch, Tür und Karton klingt.",
+    "category": "science",
+    "minutes": 10,
+    "place": "inside",
+    "age": 5,
+    "xp": 35
+  },
+  {
+    "id": 54,
+    "title": "Papier-Rennbahn",
+    "description": "Baut eine Rampe und testet, welche kleinen rollenden Gegenstände am weitesten kommen.",
+    "category": "science",
+    "minutes": 15,
+    "place": "inside",
+    "age": 5,
+    "xp": 45
+  },
+  {
+    "id": 55,
+    "title": "Schatten-Forscher",
+    "description": "Beobachtet draußen oder am Fenster einen Schatten und überlegt, warum er genau dort liegt.",
+    "category": "science",
+    "minutes": 10,
+    "place": "any",
+    "age": 6,
+    "xp": 35
+  },
+  {
+    "id": 56,
+    "title": "Gemeinsamer Turm",
+    "description": "Jeder darf abwechselnd nur ein Bauteil hinzufügen. Ziel: ein möglichst hoher stabiler Turm.",
+    "category": "team",
+    "minutes": 15,
+    "place": "inside",
+    "age": 4,
+    "xp": 45
+  },
+  {
+    "id": 57,
+    "title": "Familien-Quiz",
+    "description": "Jeder stellt zwei Fragen über sich selbst. Wer kennt die anderen am besten?",
+    "category": "team",
+    "minutes": 10,
+    "place": "any",
+    "age": 5,
+    "xp": 35
+  },
+  {
+    "id": 58,
+    "title": "Ohne Hände",
+    "description": "Transportiert gemeinsam einen leichten Gegenstand über eine kurze Strecke, ohne ihn mit den Händen zu halten.",
+    "category": "team",
+    "minutes": 10,
+    "place": "inside",
+    "age": 6,
+    "xp": 35
+  },
+  {
+    "id": 59,
+    "title": "Gemeinsames Ziel",
+    "description": "Wählt eine kleine Aufgabe, die heute nur gemeinsam geschafft werden kann, und erledigt sie sofort.",
+    "category": "team",
+    "minutes": 10,
+    "place": "any",
+    "age": 5,
+    "xp": 40
+  },
+  {
+    "id": 60,
+    "title": "Danke-Mission",
+    "description": "Jeder bedankt sich bei einer anderen Person für etwas ganz Konkretes aus den letzten Tagen.",
+    "category": "team",
+    "minutes": 5,
+    "place": "any",
+    "age": 4,
+    "xp": 25
   }
 ]
