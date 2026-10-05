@@ -1,0 +1,12 @@
+[
+  {"id":"discover","name":"Entdecken","emoji":"🔎"},
+  {"id":"build","name":"Bauen","emoji":"🧱"},
+  {"id":"senses","name":"Sinne","emoji":"👂"},
+  {"id":"creative","name":"Kreativ","emoji":"✏️"},
+  {"id":"nature","name":"Natur","emoji":"🌿"},
+  {"id":"story","name":"Geschichte","emoji":"📖"},
+  {"id":"move","name":"Bewegung","emoji":"🏃"},
+  {"id":"search","name":"Suchspiel","emoji":"🕵️"},
+  {"id":"think","name":"Denken","emoji":"🧠"},
+  {"id":"team","name":"Team","emoji":"🤝"}
+]
