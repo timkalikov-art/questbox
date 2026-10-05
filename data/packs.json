@@ -1,0 +1,51 @@
+[
+  {
+    "id": "rain",
+    "title": "Regentag",
+    "emoji": "🌧️",
+    "description": "Nur drinnen, 5–15 Minuten.",
+    "filters": {
+      "place": "inside",
+      "max": 15
+    }
+  },
+  {
+    "id": "energy",
+    "title": "Energie raus!",
+    "emoji": "⚡",
+    "description": "Bewegungsmissionen für sofort.",
+    "filters": {
+      "category": "move"
+    }
+  },
+  {
+    "id": "calm",
+    "title": "Ruhiger Moment",
+    "emoji": "🌙",
+    "description": "Kreativ, Denken und Team ohne wilde Action.",
+    "filters": {
+      "categories": [
+        "creative",
+        "team"
+      ]
+    }
+  },
+  {
+    "id": "outside",
+    "title": "Raus ins Freie",
+    "emoji": "🌳",
+    "description": "Missionen für draußen.",
+    "filters": {
+      "place": "outside"
+    }
+  },
+  {
+    "id": "quick",
+    "title": "Nur 5 Minuten",
+    "emoji": "⏱️",
+    "description": "Wenn wirklich wenig Zeit ist.",
+    "filters": {
+      "max": 5
+    }
+  }
+]
