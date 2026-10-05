@@ -1,0 +1,50 @@
+[
+  {
+    "id": "compass",
+    "emoji": "🧭",
+    "name": "Kompass",
+    "need": 3
+  },
+  {
+    "id": "key",
+    "emoji": "🗝️",
+    "name": "Geheimer Schlüssel",
+    "need": 8
+  },
+  {
+    "id": "crystal",
+    "emoji": "💎",
+    "name": "Quest-Kristall",
+    "need": 15
+  },
+  {
+    "id": "map",
+    "emoji": "🗺️",
+    "name": "Alte Karte",
+    "need": 25
+  },
+  {
+    "id": "crown",
+    "emoji": "👑",
+    "name": "Abenteuerkrone",
+    "need": 40
+  },
+  {
+    "id": "chest",
+    "emoji": "🧰",
+    "name": "Meisterkiste",
+    "need": 60
+  },
+  {
+    "id": "planet",
+    "emoji": "🪐",
+    "name": "Quest-Planet",
+    "need": 80
+  },
+  {
+    "id": "legend",
+    "emoji": "🏅",
+    "name": "Legendenmedaille",
+    "need": 90
+  }
+]

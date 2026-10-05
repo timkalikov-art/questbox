@@ -1,0 +1,101 @@
+[
+  {
+    "id": "shadow",
+    "title": "Der Schatten-Code",
+    "emoji": "🕵️",
+    "intro": "Eine verschlüsselte Nachricht ist in QUESTBOX aufgetaucht. Nur ein neues Agententeam kann herausfinden, was sie bedeutet.",
+    "chapters": [
+      {
+        "title": "Die Nachricht",
+        "text": "Euer erster Hinweis liegt direkt vor euch. Beweist, dass ihr genau beobachten könnt.",
+        "questId": 31
+      },
+      {
+        "title": "Die Tarnung",
+        "text": "Jemand könnte euch beobachten. Zeit für eine neue Identität.",
+        "questId": 32
+      },
+      {
+        "title": "Unsichtbare Spuren",
+        "text": "Die nächste Nachricht darf niemand außer euch lesen können.",
+        "questId": 33
+      },
+      {
+        "title": "Der Verdacht",
+        "text": "Im Hauptquartier stimmt etwas nicht. Drei Dinge wurden verändert.",
+        "questId": 34
+      },
+      {
+        "title": "Funkkontakt",
+        "text": "Die letzte Information muss das Team unbemerkt erreichen.",
+        "questId": 35
+      }
+    ]
+  },
+  {
+    "id": "forest",
+    "title": "Das Geheimnis des Waldes",
+    "emoji": "🌲",
+    "intro": "Auf einer alten Karte sind fünf Zeichen eingezeichnet. Jedes führt zu einer Entdeckung draußen.",
+    "chapters": [
+      {
+        "title": "Die Baumwächter",
+        "text": "Zwei Bäume bewachen den ersten Wegpunkt.",
+        "questId": 36
+      },
+      {
+        "title": "Lebendige Spuren",
+        "text": "Die Karte zeigt fünf kleine Bewohner dieses Gebietes.",
+        "questId": 37
+      },
+      {
+        "title": "Die Richtung",
+        "text": "Der Wind kennt den Weg zum nächsten Zeichen.",
+        "questId": 38
+      },
+      {
+        "title": "Der Farbcode",
+        "text": "Fünf Farben bilden den Schlüssel.",
+        "questId": 39
+      },
+      {
+        "title": "Die Klangkarte",
+        "text": "Der letzte Hinweis ist nicht zu sehen – nur zu hören.",
+        "questId": 40
+      }
+    ]
+  },
+  {
+    "id": "inventor",
+    "title": "Die Maschine der Ideen",
+    "emoji": "⚙️",
+    "intro": "Professor Funke hat seine Ideenmaschine verloren. Fünf kreative Prüfungen können sie wieder starten.",
+    "chapters": [
+      {
+        "title": "Roboter-Prototyp",
+        "text": "Die Maschine braucht einen Helfer.",
+        "questId": 41
+      },
+      {
+        "title": "Vier Bilder",
+        "text": "Ihr Speicher funktioniert nur mit Bildern.",
+        "questId": 42
+      },
+      {
+        "title": "Neue Spezies",
+        "text": "Ein unbekanntes Tier fehlt in ihrer Datenbank.",
+        "questId": 43
+      },
+      {
+        "title": "Bühnen-Test",
+        "text": "Jetzt muss die Fantasie live funktionieren.",
+        "questId": 44
+      },
+      {
+        "title": "Der Bauplan",
+        "text": "Der letzte Baustein ist ein völlig neuer Raum.",
+        "questId": 45
+      }
+    ]
+  }
+]

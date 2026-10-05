@@ -1,0 +1,38 @@
+[
+  {
+    "id": "fox",
+    "emoji": "🦊",
+    "name": "Fuchs",
+    "need": 0
+  },
+  {
+    "id": "owl",
+    "emoji": "🦉",
+    "name": "Eule",
+    "need": 5
+  },
+  {
+    "id": "wolf",
+    "emoji": "🐺",
+    "name": "Wolf",
+    "need": 15
+  },
+  {
+    "id": "dragon",
+    "emoji": "🐲",
+    "name": "Drache",
+    "need": 30
+  },
+  {
+    "id": "robot",
+    "emoji": "🤖",
+    "name": "Roboter",
+    "need": 50
+  },
+  {
+    "id": "alien",
+    "emoji": "👽",
+    "name": "Alien",
+    "need": 75
+  }
+]
