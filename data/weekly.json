@@ -1,0 +1,26 @@
+[
+  {
+    "id": "week-active",
+    "title": "Aktive Woche",
+    "description": "Schafft diese Woche 5 Missionen.",
+    "target": 5,
+    "reward": 120,
+    "emoji": "⚡"
+  },
+  {
+    "id": "week-explorer",
+    "title": "Entdecker-Woche",
+    "description": "Schafft diese Woche 4 Missionen.",
+    "target": 4,
+    "reward": 90,
+    "emoji": "🧭"
+  },
+  {
+    "id": "week-team",
+    "title": "Team-Woche",
+    "description": "Schafft diese Woche 3 Missionen.",
+    "target": 3,
+    "reward": 70,
+    "emoji": "🤝"
+  }
+]

@@ -598,5 +598,305 @@
     "place": "any",
     "age": 4,
     "xp": 25
+  },
+  {
+    "id": 61,
+    "title": "Agenten-Ausweis",
+    "description": "Gestaltet euren eigenen Agentenausweis mit Deckname, Spezialfähigkeit und geheimer Unterschrift.",
+    "category": "agent",
+    "minutes": 15,
+    "place": "inside",
+    "age": 5,
+    "xp": 45
+  },
+  {
+    "id": 62,
+    "title": "Der verschwundene Gegenstand",
+    "description": "Eine Person versteckt einen Gegenstand und gibt genau fünf Hinweise. Findet ihn ohne weitere Fragen.",
+    "category": "agent",
+    "minutes": 10,
+    "place": "inside",
+    "age": 5,
+    "xp": 35
+  },
+  {
+    "id": 63,
+    "title": "Code-Klopfen",
+    "description": "Erfindet einen Klopfcode für drei Wörter und versucht, Nachrichten nur damit zu übermitteln.",
+    "category": "agent",
+    "minutes": 10,
+    "place": "inside",
+    "age": 7,
+    "xp": 40
+  },
+  {
+    "id": 64,
+    "title": "Beweisfoto im Kopf",
+    "description": "Betrachtet eine Ecke 20 Sekunden. Dann wegschauen: Wer erinnert sich an die meisten Details?",
+    "category": "agent",
+    "minutes": 5,
+    "place": "any",
+    "age": 5,
+    "xp": 30
+  },
+  {
+    "id": 65,
+    "title": "Mission lautlos",
+    "description": "Erledigt gemeinsam eine kleine Aufgabe fünf Minuten völlig ohne Sprache.",
+    "category": "agent",
+    "minutes": 10,
+    "place": "inside",
+    "age": 6,
+    "xp": 40
+  },
+  {
+    "id": 66,
+    "title": "Stein-Galerie",
+    "description": "Findet fünf interessante Steine, betrachtet Form und Muster und gebt jedem einen Namen.",
+    "category": "nature",
+    "minutes": 15,
+    "place": "outside",
+    "age": 4,
+    "xp": 40
+  },
+  {
+    "id": 67,
+    "title": "Mini-Wetterstation",
+    "description": "Beobachtet Himmel, Wind und Temperaturgefühl und erstellt euren eigenen Wetterbericht.",
+    "category": "nature",
+    "minutes": 10,
+    "place": "outside",
+    "age": 5,
+    "xp": 35
+  },
+  {
+    "id": 68,
+    "title": "Natur-Mandala",
+    "description": "Legt draußen aus bereits herumliegenden Naturmaterialien ein Muster und lasst alles danach dort.",
+    "category": "nature",
+    "minutes": 15,
+    "place": "outside",
+    "age": 5,
+    "xp": 45
+  },
+  {
+    "id": 69,
+    "title": "Insekten-Beobachter",
+    "description": "Beobachtet ein kleines Tier aus Abstand zwei Minuten und beschreibt, was es tut.",
+    "category": "nature",
+    "minutes": 10,
+    "place": "outside",
+    "age": 5,
+    "xp": 35
+  },
+  {
+    "id": 70,
+    "title": "Der kleinste Fund",
+    "description": "Findet draußen drei winzige interessante Dinge, ohne Pflanzen oder Tiere zu beschädigen.",
+    "category": "nature",
+    "minutes": 10,
+    "place": "outside",
+    "age": 4,
+    "xp": 35
+  },
+  {
+    "id": 71,
+    "title": "Werbeagentur",
+    "description": "Erfindet Werbung für einen völlig normalen Gegenstand und präsentiert sie dramatisch.",
+    "category": "creative",
+    "minutes": 15,
+    "place": "inside",
+    "age": 6,
+    "xp": 45
+  },
+  {
+    "id": 72,
+    "title": "Neue Flagge",
+    "description": "Entwerft eine Flagge für eure Familie oder euer Team und erklärt jedes Symbol.",
+    "category": "creative",
+    "minutes": 15,
+    "place": "inside",
+    "age": 5,
+    "xp": 45
+  },
+  {
+    "id": 73,
+    "title": "Geräusche-Geschichte",
+    "description": "Erzählt eine kurze Geschichte und erzeugt alle Geräusche selbst mit Dingen aus der Umgebung.",
+    "category": "creative",
+    "minutes": 15,
+    "place": "inside",
+    "age": 5,
+    "xp": 45
+  },
+  {
+    "id": 74,
+    "title": "Mini-Ausstellung",
+    "description": "Wählt drei eigene Werke oder Gegenstände und baut daraus eine kleine Ausstellung mit Beschriftungen.",
+    "category": "creative",
+    "minutes": 20,
+    "place": "inside",
+    "age": 5,
+    "xp": 50
+  },
+  {
+    "id": 75,
+    "title": "Fantasiemaschine",
+    "description": "Zeichnet eine Maschine mit mindestens fünf verrückten Funktionen.",
+    "category": "creative",
+    "minutes": 10,
+    "place": "any",
+    "age": 5,
+    "xp": 35
+  },
+  {
+    "id": 76,
+    "title": "Zeitungs-Inseln",
+    "description": "Legt Papierblätter als Inseln aus. Überquert den Raum, ohne daneben zu treten.",
+    "category": "move",
+    "minutes": 10,
+    "place": "inside",
+    "age": 5,
+    "xp": 35
+  },
+  {
+    "id": 77,
+    "title": "Reaktionsduell",
+    "description": "Eine Person lässt einen leichten Gegenstand fallen, die andere versucht ihn schnell zu fangen.",
+    "category": "move",
+    "minutes": 10,
+    "place": "inside",
+    "age": 6,
+    "xp": 35
+  },
+  {
+    "id": 78,
+    "title": "Bewegungs-Memory",
+    "description": "Eine Person macht drei Bewegungen vor. Die nächste wiederholt sie und fügt eine hinzu.",
+    "category": "move",
+    "minutes": 10,
+    "place": "any",
+    "age": 5,
+    "xp": 40
+  },
+  {
+    "id": 79,
+    "title": "Mission Schnecke",
+    "description": "Wer schafft eine kurze Strecke am langsamsten, ohne komplett stehenzubleiben?",
+    "category": "move",
+    "minutes": 5,
+    "place": "any",
+    "age": 4,
+    "xp": 25
+  },
+  {
+    "id": 80,
+    "title": "Zimmer-Rallye",
+    "description": "Legt vier sichere Stationen fest und absolviert an jeder eine andere Bewegung.",
+    "category": "move",
+    "minutes": 15,
+    "place": "inside",
+    "age": 5,
+    "xp": 45
+  },
+  {
+    "id": 81,
+    "title": "Wasser-Tropfen-Test",
+    "description": "Testet auf einer wasserfesten Unterlage, wie viele Tropfen Wasser auf eine Münze passen.",
+    "category": "science",
+    "minutes": 15,
+    "place": "inside",
+    "age": 7,
+    "xp": 50
+  },
+  {
+    "id": 82,
+    "title": "Papier-Spirale",
+    "description": "Schneidet mit Hilfe eines Erwachsenen eine Papierspirale und beobachtet, wie warme Luft sie bewegen kann.",
+    "category": "science",
+    "minutes": 15,
+    "place": "inside",
+    "age": 7,
+    "xp": 50
+  },
+  {
+    "id": 83,
+    "title": "Statischer Ballon",
+    "description": "Falls ein Ballon vorhanden ist: reibt ihn an Stoff und testet, welche leichten Papierschnipsel reagieren.",
+    "category": "science",
+    "minutes": 10,
+    "place": "inside",
+    "age": 7,
+    "xp": 40
+  },
+  {
+    "id": 84,
+    "title": "Starke Formen",
+    "description": "Faltet Papier in verschiedene Formen und testet, welche Form ein kleines Buch am besten stützt.",
+    "category": "science",
+    "minutes": 15,
+    "place": "inside",
+    "age": 7,
+    "xp": 50
+  },
+  {
+    "id": 85,
+    "title": "Mini-Messlabor",
+    "description": "Schätzt zuerst Länge von fünf Gegenständen und messt danach nach.",
+    "category": "science",
+    "minutes": 15,
+    "place": "inside",
+    "age": 6,
+    "xp": 45
+  },
+  {
+    "id": 86,
+    "title": "Team-Zeichner",
+    "description": "Eine Person beschreibt ein einfaches Bild, die andere zeichnet es, ohne das Original zu sehen.",
+    "category": "team",
+    "minutes": 15,
+    "place": "inside",
+    "age": 6,
+    "xp": 45
+  },
+  {
+    "id": 87,
+    "title": "Familien-Motto",
+    "description": "Erfindet gemeinsam einen kurzen Satz, der euer Team beschreibt.",
+    "category": "team",
+    "minutes": 10,
+    "place": "any",
+    "age": 5,
+    "xp": 35
+  },
+  {
+    "id": 88,
+    "title": "Drei Entscheidungen",
+    "description": "Plant gemeinsam drei kleine Dinge, die euren morgigen Tag schöner machen könnten.",
+    "category": "team",
+    "minutes": 10,
+    "place": "any",
+    "age": 6,
+    "xp": 35
+  },
+  {
+    "id": 89,
+    "title": "Kompliment-Kreis",
+    "description": "Jeder sagt der nächsten Person etwas Positives, das ganz konkret ist.",
+    "category": "team",
+    "minutes": 5,
+    "place": "any",
+    "age": 4,
+    "xp": 25
+  },
+  {
+    "id": 90,
+    "title": "Team-Transport",
+    "description": "Transportiert drei leichte Gegenstände gemeinsam von A nach B – jeder darf nur eine Hand benutzen.",
+    "category": "team",
+    "minutes": 10,
+    "place": "inside",
+    "age": 6,
+    "xp": 40
   }
 ]
