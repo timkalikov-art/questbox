@@ -1,2 +1,2 @@
-# QUESTBOX v3
-60 Missionen, 9 Kampagnen, tägliche Mission, Favoriten, Kampagnenfortschritt, XP, Levels, Streaks und 8 Abzeichen. PWA/offline-ready.
+# QUESTBOX v5
+90 Missionen · 15 Kampagnen · Onboarding · altersgerechte Auswahl · Schnellstart-Pakete · Wochen-Challenges · Quest-Münzen · Elternbelohnungen · Backup/Import · Offline-PWA.

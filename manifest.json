@@ -4,7 +4,8 @@
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
+  "orientation": "portrait",
   "background_color": "#0d120b",
   "theme_color": "#0d120b",
-  "description": "Kleine Abenteuer für Familien – raus aus dem Scrollen, rein ins echte Leben."
+  "description": "90 Offline-Missionen und 15 Familienabenteuer für echte gemeinsame Zeit."
 }
